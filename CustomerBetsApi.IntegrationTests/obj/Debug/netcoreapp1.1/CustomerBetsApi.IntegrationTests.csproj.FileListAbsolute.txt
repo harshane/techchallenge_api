@@ -1,0 +1,12 @@
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.IntegrationTests.deps.json
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.IntegrationTests.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\obj\Debug\netcoreapp1.1\CustomerBetsApi.IntegrationTests.AssemblyInfo.cs
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.IntegrationTests.pdb
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\obj\Debug\netcoreapp1.1\CustomerBetsApi.IntegrationTests.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\obj\Debug\netcoreapp1.1\CustomerBetsApi.IntegrationTests.pdb
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.IntegrationTests.runtimeconfig.json
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.IntegrationTests.runtimeconfig.dev.json
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.IntegrationTests\obj\Debug\netcoreapp1.1\CustomerBetsApi.IntegrationTests.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.AcceptanceTests.deps.json
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.AcceptanceTests.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\obj\Debug\netcoreapp1.1\CustomerBetsApi.AcceptanceTests.csprojResolveAssemblyReference.cache
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\obj\Debug\netcoreapp1.1\CustomerBetsApi.AcceptanceTests.AssemblyInfo.cs
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.AcceptanceTests.runtimeconfig.json
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.AcceptanceTests.runtimeconfig.dev.json
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\bin\Debug\netcoreapp1.1\CustomerBetsApi.AcceptanceTests.pdb
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\obj\Debug\netcoreapp1.1\CustomerBetsApi.AcceptanceTests.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.AcceptanceTests\obj\Debug\netcoreapp1.1\CustomerBetsApi.AcceptanceTests.pdb

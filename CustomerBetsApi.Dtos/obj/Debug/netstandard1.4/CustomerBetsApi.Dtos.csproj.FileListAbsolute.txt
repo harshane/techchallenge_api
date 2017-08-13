@@ -1,0 +1,14 @@
+D:\Tests\CustomerBetsApi\CustomerBetsApi.Dtos\bin\Debug\netstandard1.4\CustomerBetsApi.Dtos.deps.json
+D:\Tests\CustomerBetsApi\CustomerBetsApi.Dtos\bin\Debug\netstandard1.4\CustomerBetsApi.Dtos.dll
+D:\Tests\CustomerBetsApi\CustomerBetsApi.Dtos\bin\Debug\netstandard1.4\CustomerBetsApi.Dtos.pdb
+D:\Tests\CustomerBetsApi\CustomerBetsApi.Dtos\obj\Debug\netstandard1.4\CustomerBetsApi.Dtos.AssemblyInfo.cs
+D:\Tests\CustomerBetsApi\CustomerBetsApi.Dtos\obj\Debug\netstandard1.4\CustomerBetsApi.Dtos.dll
+D:\Tests\CustomerBetsApi\CustomerBetsApi.Dtos\obj\Debug\netstandard1.4\CustomerBetsApi.Dtos.pdb
+D:\Tests\CustomerBetsApi\CustomerBetsApi.Dtos\obj\Debug\netstandard1.4\CustomerBetsApi.Dtos.csprojResolveAssemblyReference.cache
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.Dtos\bin\Debug\netstandard1.4\CustomerBetsApi.Dtos.deps.json
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.Dtos\bin\Debug\netstandard1.4\CustomerBetsApi.Dtos.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.Dtos\bin\Debug\netstandard1.4\CustomerBetsApi.Dtos.pdb
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.Dtos\obj\Debug\netstandard1.4\CustomerBetsApi.Dtos.AssemblyInfo.cs
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.Dtos\obj\Debug\netstandard1.4\CustomerBetsApi.Dtos.dll
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.Dtos\obj\Debug\netstandard1.4\CustomerBetsApi.Dtos.pdb
+D:\Assessments\WilliamHill\CustomerBetsApi\CustomerBetsApi.Dtos\obj\Debug\netstandard1.4\CustomerBetsApi.Dtos.csprojResolveAssemblyReference.cache
