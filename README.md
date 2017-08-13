@@ -1,8 +1,8 @@
-# Tech Challenge – Customer Bets Api
+# Tech Challenge â€“ Customer Bets Api
 
 ## Blueprint
 
-	Blue print for API can be found in Blueprint.md located 
+	Blue print for API can be found in Blueprint.md located adjust to this file
 
 ## Development
 
